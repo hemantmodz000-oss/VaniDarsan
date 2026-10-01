@@ -1,0 +1,6 @@
+{
+  "name": "Vaani Darshan - Hindi Philosophical TTS Studio",
+  "description": "Engaging Hindi Text-to-Speech voice generator with deep philosophical character voices, spiritual gurus, stoic thinkers, and ancient storytellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
